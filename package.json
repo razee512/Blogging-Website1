@@ -10,8 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "htmlhint": "^1.1.4",
+    "parcel": "^2.13.3",
     "stylelint": "^16.14.1",
-    "stylelint-config-standard": "^37.0.0",
-    "parcel": "^2.8.0"
+    "stylelint-config-standard": "^37.0.0"
   }
 }
